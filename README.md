@@ -1,3 +1,3 @@
-#Ohms Law Calculator
+# Ohms Law Calculator
 
 repeal ohms law
